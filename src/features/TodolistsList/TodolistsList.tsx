@@ -96,6 +96,5 @@ export const TodolistsList: React.FC = () => {
                 })
             }
         </Grid>
-        <p></p>
     </>
 }
